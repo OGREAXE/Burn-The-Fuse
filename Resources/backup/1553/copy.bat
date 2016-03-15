@@ -1,0 +1,1 @@
+copy /Y C:\Users\Kevin\Downloads\cocos2d-x-2.2.5\Debug.win32\thumb*.png C:\Users\Kevin\Downloads\cocos2d-x-2.2.5\samples\Cpp\HelloCpp\Resources\thumbs\1553
